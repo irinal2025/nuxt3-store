@@ -87,11 +87,12 @@ The main goal of the project is to strengthen skills in:
 ## 👨‍💻 Author
 
 **Irina L**
+
 This is a personal practice project created through self-study in web development.
 
 ## 🧩 Contributing  
 
-This project is for personal use and experimentation. Currently, contributions are not accepted. However, if you find any bugs or have feature requests, feel free to open an issue on GitHub." Thank you for your understanding!
+This project is for personal use and experimentation. Currently, contributions are not accepted. However, if you find any bugs or have feature requests, feel free to open an issue on GitHub. Thank you for your understanding!
 
 ---
 
@@ -184,6 +185,7 @@ Projektin tavoitteena on kehittää osaamista:
 ## 👨‍💻 Tekijä
 
 **Irina L**
+
 Tämä on henkilökohtainen harjoitusprojekti web-kehityksen itseopiskelun yhteydessä.
 
 ## 🧩 Osallistuminen projektiin
