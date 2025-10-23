@@ -86,7 +86,7 @@ The main goal of the project is to strengthen skills in:
 
 ## 👨‍💻 Author
 
-**Irina L**
+**[Irina L](https://github.com/irinal2025)**
 
 This is a personal practice project created through self-study in web development.
 
@@ -184,7 +184,7 @@ Projektin tavoitteena on kehittää osaamista:
 
 ## 👨‍💻 Tekijä
 
-**Irina L**
+**[Irina L](https://github.com/irinal2025)**
 
 Tämä on henkilökohtainen harjoitusprojekti web-kehityksen itseopiskelun yhteydessä.
 
