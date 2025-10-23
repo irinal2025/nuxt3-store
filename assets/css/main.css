@@ -1,0 +1,37 @@
+@import "tailwindcss";
+
+body {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    background-color: #f9f9f9;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+p {
+    margin-bottom: 12px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #111;
+    margin-top: 24px;
+    margin-bottom: 12px;
+    font-weight: 600;
+}
+
+button.btn, .btn {
+    background-color: #003F5A;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+    font-size: 13px;
+    font-weight: 600;
+    &:hover {
+        background-color: #6494B4;
+        cursor: pointer;
+    }
+}
